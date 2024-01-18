@@ -1,6 +1,7 @@
 # FUTABA_CANServo_Updater  
 
 本アプリケーションでは、DroneCAN対応サーボ（BLAシリーズ：BLA21-**U、BLA15-**U等）のファームウェアアップデートを行うことが可能です。   
+アプリケーションを使用する際は、『FUTABA_CANServo_Updater_V1.0.4.exe』をダウンロードして実行してください。  
 アプリケーションの使用方法およびファームウェアアップデートの手順は以下のマニュアルをご確認ください。
 <br>
 * [FUTABA_CANServo_Updater_マニュアル_Rev1.00.pdf](https://github.com/FutabaCorp/FUTABA_CANServo_Updater/blob/main/FUTABA_CANServo_Updater_%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB_Rev1.00.pdf)　（Japanese）
@@ -10,7 +11,7 @@
 アップデートに使用するbinファイルは以下のフォルダに保存されています。  
 アップデート対象の機種名が記載されたフォルダ内のbinファイルをご利用ください。
 <br>
-[bin](https://github.com/FutabaCorp/FUTABA_CANServo_Updater/tree/main/bin)
+[update_bin_files](https://github.com/FutabaCorp/FUTABA_CANServo_Updater/tree/main/bin)
 <br>
 
 ### ファームウェアバージョン管理表
@@ -24,7 +25,7 @@
 
 ### Firmware version management table
 
-| Ver | 機種(期間) | 変更内容 |
+| Ver | Model (Period) | Changes |
 | :---: | :--- | :--- |
 | 1.010 | ・BLA21-\*\*U-A0* (1/2021\~12/2023)<br>・BLA15-06U-A01 (5/2021\~12/2023) | ・New firmware |
 | 1.100 | ・BLA21-\*\*U-AB2 (10/2021~4/2022) | ・Implementation Speed/Torque Control ON/OFF [0x25].<br> Speed/Torque Control is OFF by default.<br>・Implementation Overcurrent protection [0x2A].<br>・implementation PWM input setting [0x34] to [0x37].<br>(Only for models that support PWM input) |
