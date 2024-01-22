@@ -13,6 +13,11 @@
 <br>
 [update_bin_files](https://github.com/FutabaCorp/FUTABA_CANServo_Updater/tree/main/bin)
 <br>
+<br>
+DroneCAN対応サーボとPCの接続にはスターターキット（DroneCAN対応サーボ用）をご利用ください。  
+https://www.futaba.co.jp/product/industrial_servo/servo/lineup/starter-kit
+<br>
+<br>
 
 ### ファームウェアバージョン管理表
 
