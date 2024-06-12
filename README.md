@@ -27,6 +27,7 @@ https://www.futaba.co.jp/product/industrial_servo/servo/lineup/starter-kit
 | 1.100 | ・BLA21-\*\*U-AB2 (2021/10~2022/4) | ・速度/トルク制御 ON/OFF機能実装 [0x25]<br> デフォルトは速度/トルク制御はOFF（速度/トルク制御不可）<br>・過電流保護機能実装 [0x2A]<br>・PWM入力設定機能実装 [0x34]\~[0x37]<br>(PWM入力対応機種のみ) |
 | 1.200 | ・BLA21-\*\*U-AB2 (2022/5\~2023/12)<br>・BLA15-12U-A01 (2022/9\~2023/12) | ・[0x2F] 角度制御　ブースト機能実装 |
 | 1.300 | 全機種 (2024/1\~) | ・動作改善 |
+| 1.400 | 全機種 (2024/6\~) | ・低速動作時にサーボがストールする不具合を修正 |
 
 ### Firmware version management table
 
@@ -36,3 +37,4 @@ https://www.futaba.co.jp/product/industrial_servo/servo/lineup/starter-kit
 | 1.100 | ・BLA21-\*\*U-AB2 (10/2021~4/2022) | ・Implementation Speed/Torque Control ON/OFF [0x25].<br> Speed/Torque Control is OFF by default.<br>・Implementation Overcurrent protection [0x2A].<br>・implementation PWM input setting [0x34] to [0x37].<br>(Only for models that support PWM input) |
 | 1.200 | ・BLA21-\*\*U-AB2 (5/2022\~12/2023)<br>・BLA15-12U-A01 (9/2022\~12/2023) | ・Implementation Angle control Boost [0x2F]. |
 | 1.300 | All models (1/2024\~) | ・Improved behavior |
+| 1.400 | All models (6/2024\~) | ・Fixed a bug that caused the servo to stall during low speed operation. |
