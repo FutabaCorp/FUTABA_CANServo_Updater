@@ -2,19 +2,25 @@
 
 本アプリケーションでは、DroneCAN対応サーボ（BLAシリーズ：BLA21-**U、BLA15-**U等）のファームウェアアップデートを行うことが可能です。   
 アプリケーションを使用する際は、実行ファイル(FUTABA_CANServo_Updater_V1.0.4.exe)をダウンロードして実行してください。  
-アプリケーションの使用方法およびファームウェアアップデートの手順は以下のマニュアルをご確認ください。
+アプリケーションの使用方法およびファームウェアアップデートの手順は以下のマニュアルをご確認ください。  
+This application allows you to update the firmware for DroneCAN-compatible servos (BLA series: BLA21-**U, BLA15-**U, etc.).  
+To use the application, download and run the executable file (FUTABA_CANServo_Updater_V1.0.4.exe).  
+Please refer to the following manual for instructions on how to use the application and firmware updates.  
 <br>
 * [FUTABA_CANServo_Updater_マニュアル_Rev1.00.pdf](https://github.com/FutabaCorp/FUTABA_CANServo_Updater/blob/main/FUTABA_CANServo_Updater_%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB_Rev1.00.pdf)　（Japanese）
 * [FUTABA_CANServo_Updater_Manual_Rev1.00.pdf](https://github.com/FutabaCorp/FUTABA_CANServo_Updater/blob/main/FUTABA_CANServo_Updater_Manual_Rev1.00.pdf)　（English）
 <br>
 
 アップデートに使用するbinファイルは以下のフォルダに保存されています。  
-アップデート対象の機種名が記載されたフォルダ内のbinファイルをご利用ください。
+アップデート対象の機種名が記載されたフォルダ内のbinファイルをご利用ください。  
+The bin file used for the update is saved in the following folder.  
+Please use the bin file in the folder containing the name of the model to be updated.  
 <br>
 [update_bin_files](https://github.com/FutabaCorp/FUTABA_CANServo_Updater/tree/main/bin)
 <br>
 <br>
 DroneCAN対応サーボとPCの接続にはスターターキット（DroneCAN対応サーボ用）をご利用ください。  
+Please use the Starter Kit (for DroneCAN-compatible servos) to connect a DroneCAN-compatible servo to a PC.  
 https://www.futaba.co.jp/product/industrial_servo/servo/lineup/starter-kit
 <br>
 <br>
