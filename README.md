@@ -25,7 +25,7 @@ https://www.futaba.co.jp/product/industrial_servo/servo/lineup/starter-kit
 <br>
 <br>
 
-### ファームウェアバージョン管理表
+### サーボファームウェアバージョン管理表
 
 | Ver | 機種(期間) | 変更内容 |
 | :---: | :--- | :--- |
@@ -35,7 +35,7 @@ https://www.futaba.co.jp/product/industrial_servo/servo/lineup/starter-kit
 | 1.300 | ・BLA21-\*\*U-A**<br>・BLA15-**U-A01<br> (2024/1\~) | ・動作改善 |
 | 1.400 | ・BLA21-\*\*U-A**<br>・BLA15-**U-A01<br> (2024/6\~) | ・低速動作時にサーボがストールする不具合を修正 |
 
-### Firmware version management table
+### Servo firmware version management table
 
 | Ver | Model (Period) | Changes |
 | :---: | :--- | :--- |
@@ -44,3 +44,17 @@ https://www.futaba.co.jp/product/industrial_servo/servo/lineup/starter-kit
 | 1.200 | ・BLA21-\*\*U-AB2 (5/2022\~12/2023)<br>・BLA15-12U-A01 (9/2022\~12/2023) | ・Implementation Angle control Boost [0x2F]. |
 | 1.300 | ・BLA21-\*\*U-A**<br>・BLA15-**U-A01<br> (1/2024\~) | ・Improved behavior |
 | 1.400 | ・BLA21-\*\*U-A**<br>・BLA15-**U-A01<br> (6/2024\~) | ・Fixed a bug that caused the servo to stall during low speed operation. |
+
+### アプリケーションバージョン管理表
+
+| Ver | 変更内容 |
+| :---: | :--- |
+| 1.0.4 | ・新規アプリケーション |
+| 1.0.5 | ・BLA15-**Uシリーズにて、アップデート時に一部パラメータの初期値が変わる不具合を修正 |
+
+### Application version management table
+
+| Ver | Changes |
+| :---: | :--- |
+| 1.0.4 | ・New applications |
+| 1.0.5 | ・Fixed an issue where the initial values ​​of some parameters in the BLA15-**U series changed when updating. |
