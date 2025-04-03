@@ -7,8 +7,8 @@ This application allows you to update the firmware for DroneCAN-compatible servo
 To use the application, download and run the executable file (FUTABA_CANServo_Updater_V1.0.4.exe).  
 Please refer to the following manual for instructions on how to use the application and firmware updates.  
 <br>
-* [FUTABA_CANServo_Updater_マニュアル_Rev1.00.pdf](https://github.com/FutabaCorp/FUTABA_CANServo_Updater/blob/main/FUTABA_CANServo_Updater_%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB_Rev1.00.pdf)　（Japanese）
-* [FUTABA_CANServo_Updater_Manual_Rev1.00.pdf](https://github.com/FutabaCorp/FUTABA_CANServo_Updater/blob/main/FUTABA_CANServo_Updater_Manual_Rev1.00.pdf)　（English）
+* [FUTABA_CANServo_Updater_マニュアル_Rev1.00.pdf](https://github.com/FutabaCorp/FUTABA_CANServo_Updater/blob/main/FUTABA_CANServo_Updater_%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB.pdf)　（Japanese）
+* [FUTABA_CANServo_Updater_Manual_Rev1.00.pdf](https://github.com/FutabaCorp/FUTABA_CANServo_Updater/blob/main/FUTABA_CANServo_Updater_Manual.pdf)　（English）
 <br>
 
 アップデートに使用するbinファイルは以下のフォルダに保存されています。  
