@@ -16,7 +16,7 @@ Please refer to the following manual for instructions on how to use the applicat
 The bin file used for the update is saved in the following folder.  
 Please use the bin file in the folder containing the name of the model to be updated.  
 <br>
-[update_bin_files](https://github.com/FutabaCorp/FUTABA_CANServo_Updater/tree/main/bin)
+[update_bin_files](https://github.com/FutabaCorp/FUTABA_CANServo_Updater/tree/main/update_bin_files)
 <br>
 <br>
 DroneCAN対応サーボとPCの接続にはスターターキット（DroneCAN対応サーボ用）をご利用ください。  
